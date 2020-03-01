@@ -40,4 +40,4 @@ gem "apktools", '~> 0.6.0'
 gem "nokogiri", '~> 1.6.1'
 
 # For uploading files
-gem 'carrierwave', '0.10.0'
+gem 'carrierwave', '2.0.0'
